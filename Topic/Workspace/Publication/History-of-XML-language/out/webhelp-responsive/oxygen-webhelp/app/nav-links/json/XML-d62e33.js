@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Oxygen XML Editor","shortdesc":"<p class=\"shortdesc\">This document explains what Oxygen XML editor is</p>","href":"topics\/concepts\/Oxygen.html","attributes": {"data-id":"Oxygen",},"menu": {"hasChildren":false,},"tocID":"Oxygen-d62e44","topics":[]}]});

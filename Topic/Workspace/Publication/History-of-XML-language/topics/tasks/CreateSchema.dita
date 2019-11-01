@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="CreateSchema">
+    <title>How to create a schema language in Oxygen</title>
+    <shortdesc>An XML Schema describes the structure of an XML document. The XML Schema language is also referred to as XML Schema Definition (XSD).  Here we describe the steps you need to take to create an XSD for your XML document.</shortdesc>
+    <taskbody>
+        <context>
+            <p><ol>
+                <li>Open Oxygen XML editor</li>
+                <li>Open your XML file e.g. File - Open - Browse to your .xml file and click Open</li>
+                <li>Go to Tools&gt;Generate/Convert Schema</li>
+            </ol></p>
+        </context>
+    </taskbody>
+</task>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ecw_kjz_4jb">
+    <title>Different Markup Languages</title>
+    <shortdesc>The following is a list of markup languages</shortdesc>
+    <refbody>
+    <table>
+        <tgroup cols="2">
+            <tbody>
+                <row>
+                    <entry>
+                        Application Markup Language (AppML)</entry>
+                    <entry>Instrument Markup Language (IML)</entry>
+                </row>
+                <row>
+                    <entry>Architecture Description Markup Language (ADML)</entry>
+                    <entry>International Development Markup Language (IDML)</entry>
+                </row>
+                <row>
+                    <entry>Artificial Intelligence Markup Language (AIML)</entry>
+                    <entry>Java Speech Markup Language (JSML)</entry>
+                </row>
+                <row>
+                    <entry>ASN.1 Markup Language (AML)</entry>
+                    <entry>Karst Markup Language (KML)</entry>
+                </row>
+                <row>
+                    <entry>Astronomical Instrument Markup Language (AIML)</entry>
+                    <entry>Koala Bean Markup Language (KBML)</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table></refbody>
+</reference>

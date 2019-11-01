@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="HTMLelements">
+    <title>Some of the elements in HTML</title>
+    <shortdesc>An HTML element usually consists of a start tag and an end tag, with the content inserted in between</shortdesc>
+    <refbody>
+    <table>
+        <tgroup cols="3">
+            <thead>
+                <row>
+                    <entry>Start tag</entry>
+                    <entry>Element content</entry>
+                    <entry>End tag</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>&lt;h1&gt;</entry>
+                    <entry>my first heading</entry>
+                    <entry>&lt;/h1&gt;</entry>
+                </row>
+                <row>
+                    <entry>&lt;p&gt;</entry>
+                    <entry>my first paragraph</entry>
+                    <entry>&lt;/p&gt;</entry>
+                </row>
+                <row>
+                    <entry>&lt;br&gt;</entry>
+                    <entry>break</entry>
+                    <entry>&lt;/br&gt;</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table></refbody>
+</reference>

@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">History of XML language</span>","topics" : [{"title":"Markup Language","shortdesc":"<p class=\"shortdesc\">What is a markup language</p>","href":"topics\/concepts\/MarkupLanguage.html","attributes": {"data-id":"MarkupLanguage",},"menu": {"hasChildren":true,},"tocID":"MarkupLanguage-d62e11","next":"MarkupLanguage-d62e11",}]});

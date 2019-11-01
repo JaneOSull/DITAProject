@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Schema">
+    <title>What is a schema language</title>
+    <shortdesc>A schema language describes the structure of an XML document  
+    The XML schema language is also referred to as XML Schema Definition (XSD)</shortdesc>
+    <conbody>
+        <section>
+            <title>Purpose of an XML schema</title>
+            <p>The purpose of an XML Schema is to define the legal building blocks of an XML document:
+            <ul>
+                <li>the elements and attributes that can appear in a document</li>
+                <li>the number of (and order of) child elements</li>
+                <li>data types for elements and attributes</li>
+                <li>default and fixed values for elements and attributes</li>
+            </ul></p>
+        </section>
+       </conbody>
+</concept>

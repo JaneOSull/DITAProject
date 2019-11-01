@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Some of the elements in HTML","shortdesc":"<p class=\"shortdesc\">An HTML element usually consists of a start tag and an end tag, with the content inserted in between</p>","href":"topics\/references\/HTMLelements.html","attributes": {"data-id":"HTMLelements",},"menu": {"hasChildren":false,},"tocID":"HTMLelements-d62e66","topics":[]}]});

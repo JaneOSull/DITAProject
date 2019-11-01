@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XML">
+    <title>What is XML</title>
+    <shortdesc>This document explains what XML (Extensible Markup Language) is</shortdesc>
+    <conbody>
+        <p>Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.  The World Wide Web Consortium's XML 1.0 Specification of 1998 and several other related specifications—all of them free open standards—define XML.</p>
+    </conbody>
+</concept>

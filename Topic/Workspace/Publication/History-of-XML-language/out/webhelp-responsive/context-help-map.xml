@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="MarkupLanguage" path="topics/concepts/MarkupLanguage.html"/>
+   <appContext helpID="reference_ecw_kjz_4jb"
+               path="topics/references/DifferentMarkupLanguages.html"/>
+   <appContext helpID="XML" path="topics/concepts/XML.html"/>
+   <appContext helpID="Oxygen" path="topics/concepts/Oxygen.html"/>
+   <appContext helpID="HTML" path="topics/concepts/HTML.html"/>
+   <appContext helpID="HTMLelements" path="topics/references/HTMLelements.html"/>
+   <appContext helpID="Schema" path="topics/concepts/Schema.html"/>
+   <appContext helpID="DTD" path="topics/concepts/DTD.html"/>
+   <appContext helpID="CreateSchema" path="topics/tasks/CreateSchema.html"/>
+</map>
