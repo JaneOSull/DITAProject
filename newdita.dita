@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="newdita">
+    <title>Baking Easy Chocolate Cakes</title>
+    <shortdesc>This instruction shows you how to bake the most delicious chocolate cake using .</shortdesc>
+    <taskbody>
+        <context>
+            You can bake a chocolate cake using dark or white chocolate.
+           </context>
+        <steps>
+            <step>
+                <cmd>Mix sugar and butter</cmd>
+            </step>
+            <step>
+                <cmd>Beat in the eggs</cmd>
+            </step>
+            <step>
+                <cmd>Add flour and melted chocolate</cmd>
+            </step>
+            <step>
+                <cmd>Bake in oven for 30 minutes</cmd>
+                <choices>
+                    <choice>If you want a dark chocolate cake, use 80% chocolate.</choice>
+                    <choice>If you want a lighter cake, use milk chocolate</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+
+<task id="Week6Lab">
+    <title><b>Fixing Bike Tyres</b></title>
+    <shortdesc>Follow these instructions to fix a flat bike tyre.</shortdesc>
+    <prolog>
+        <author>Tara Sherry</author>
+        <critdates>
+            <created date="20 October 2019"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>This information will be helpful if you get a flat tyre while you're out for a cycle.</p>
+        </context>
+        <prereq>Always carry a spare tube, repair kit, tyre levers and a pump to change a tyre.
+            <xref href="#Example1">See this list</xref>
+        </prereq>
+        
+        <steps>
+            <step>
+                <cmd><b>Remove The Bike Wheel</b></cmd>
+                <tutorialinfo>Removing the wheel is a 2-step process.</tutorialinfo>
+                <substeps>
+                    <substep>
+                        <cmd>Release Your Brakes.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Release Your Wheel.</cmd>
+                    </substep>
+                </substeps>
+                <steptroubleshooting>Check manufacturer instruction if you're unable to complete these steps.</steptroubleshooting>
+            </step>
+            <step>
+                <cmd><b>Remove The Tube</b></cmd>
+                <tutorialinfo>You need to remove the tube from the tyre to find the source of the puncture.</tutorialinfo>
+                <substeps>
+                    <substep>
+                        <cmd>Release the remaining air from your tyre by depressing the small plunger in the center of your tyre valve.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Unseat your tyre by pushing one bead edge in toward the center of the rim.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the inflatable tube from beneath the tyre by pulling the valve stem out through the rim.</cmd>
+                    </substep>
+                </substeps>
+                
+                <itemgroup>
+                    <hazardstatement>
+                        <messagepanel>
+                            <typeofhazard>The sharp edge of the rim may cause damage when pulling the valve out through the rim.</typeofhazard>
+                            <howtoavoid>Carefully remove the inflatable tube from beneath the tyre by pulling the valve stem out through the rim first.</howtoavoid>
+                        </messagepanel>
+                    </hazardstatement>
+                </itemgroup>
+                
+            </step>
+            <step>
+                <cmd><b>Find The Cause Of Your Flat Tyre</b></cmd>
+                <tutorialinfo>When searching for the cause of a flat tyre, begin on the outside and work your way in.</tutorialinfo>
+                <substeps>
+                    <substep>
+                        <cmd>Check the outer surface of the tyre for any signs of damage or wear.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Check the inner tube and the inside surface of the tyre for damage.</cmd>
+                    </substep>
+                </substeps>
+                <steptroubleshooting>You can leave the tyre in its location on the wheel to check for tyre damage once the tube leak is discovered.</steptroubleshooting>
+            </step>
+            <step>
+                <cmd><b>Repair Your Tube</b></cmd>
+                <tutorialinfo>Most commercial patching kits contain everything you need to create an effective patch in the field.</tutorialinfo>
+                <substeps>
+                    <substep>
+                        <cmd>Find the damaged area.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Clean and dry the damaged area.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Rough up the surface of the damaged area with sandpaper (to help the glue adhere).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Spread the glue (vulcanizing fluid) and allow it to set until tacky.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Apply the tube patch and hold it in place with pressure.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Put Your Tube and Tyre Back On</b></cmd>
+                <tutorialinfo>Check manufacturer instruction if you're unable to complete these steps</tutorialinfo>
+                <substeps>
+                    <substep>
+                        <cmd>Seat the rim properly.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Partially inflate your repaired tube.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Starting with the valve stem, lower the tube onto the wheel and insert the valve into the rim valve hole.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place the rest of the tube inside the tyre.</cmd>
+                    </substep>
+                    <substep importance="optional">
+                        <cmd>If you completely removed your tyre from the rim, proceed around the wheel working the tyre bead inside the rim.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Inflate the tyre slowly to its recommended pressure.</cmd>
+                        <info>Recommended pressure is printed on the tyre itself or in your owner manual.</info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Reinstall the Bike Wheel</b></cmd>
+            </step>
+            <step>
+                <cmd><b>Adjust your brakes</b></cmd>
+            </step>
+        </steps>
+        
+        <result>The tyre has been fixed and you're ready to go.</result>
+        <postreq>Cycle your bike.</postreq>
+        
+    </taskbody>
+</task>

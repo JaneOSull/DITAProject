@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_n1r_5xm_kjb">
+    <title>How to repair a bicycle puncture</title>
+    <shortdesc>
+        How to repair a bicycle puncture. Use the following instructions
+    </shortdesc>
+    <taskbody>
+        <context>
+            You can change any tire with these basic instructions
+        </context>
+        <prereq>gather glue, rubber patch, water bowl, air pump, rag</prereq>
+        <steps>
+            <step>
+                <cmd> remove the tire from the bicycle frame</cmd>
+                <stepxmp>most bicycles have clips if yours does not find the appropriate spanner</stepxmp>
+                <steptroubleshooting>be careful removing the tire from the bicycle tube</steptroubleshooting>
+            </step>
+        </steps>
+        <steps>
+            <step importance="required">
+                <cmd>inflate the tyre using the air pump, then rotate the inner tube in the bowl of water</cmd>
+                <stepresult>air bubbles will appear in the water on the surface of the tube</stepresult>
+                
+            </step>
+            <step importance="optional">
+                <cmd>dry the inner tube with the rag</cmd>
+                <info>ensure it is completely dry to touch</info>
+                <choices>
+                    <choice>if you have light sand paper, lightly rub the area of the puncture</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>apply the glue and then the rubber patch</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>open the glue tube</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Allow the patch to cure for 60 minutes</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+<result>enjoy cycling again</result>

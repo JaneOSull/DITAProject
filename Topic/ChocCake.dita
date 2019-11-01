@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="ChocCake">
+    <title>Easy Chocolate Cakes</title>
+    <shortdesc>How to bake the easiest, most delicious chocolate cakes</shortdesc>
+    <taskbody>
+        <context>
+            This is a lovely moist cake and very easy to make
+        </context>
+        <section>
+            <title>You will need</title>
+            <p></p>
+        
+        <table>
+            <tgroup cols="2">
+                <thead>
+                    <row>
+                        <entry>Ingredients</entry>
+                        <entry>Amount</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Flour</entry>
+                        <entry>100g</entry>
+                        
+                    </row>
+                    <row>
+                        <entry>Sugar</entry>
+                        <entry>150g</entry>
+                        
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        </section>
+        <steps>
+                <step>
+                    <cmd>Mix sugar and butter</cmd>
+                </step>
+                <step>
+                    <cmd>Beat in the eggs</cmd>
+                </step>
+                <step>
+                    <cmd>Add flour and melted chocolate</cmd>
+                </step>
+                <step>
+                    <cmd>Bake in oven for 30 minutes</cmd>
+                    <choices>
+                        <choice>If you want a dark chocolate cake, use 80% chocolate.</choice>
+                        <choice>If you want a lighter cake, use milk chocolate</choice>
+                    </choices>
+                </step>
+            </steps>
+        </taskbody>
+</task>

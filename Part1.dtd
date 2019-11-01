@@ -1,0 +1,40 @@
+<!ELEMENT agency_report (name, date, city, address, body, website)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT date (#PCDATA) >
+<!ATTLIST date day CDATA #REQUIRED >
+<!ATTLIST date month CDATA #REQUIRED >
+<!ATTLIST date year CDATA #FIXED "2019" >
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT body (employee, employee, employee, employee?, employee?, employee?, employee?, tour, tour, tour+, finance_report)>
+<!ELEMENT website (#PCDATA)>
+<!ENTITY ws "www.myTravelAgency.org" >
+<!ELEMENT employee (name, age, salary)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ATTLIST employee title (officer | manager | clerk | secretary | tour_leader) "officer">
+<!ATTLIST employee staff_id ID #REQUIRED >
+<!ATTLIST salary mode (weekly | monthly) "weekly">
+<!ATTLIST salary currency CDATA #FIXED "Euro" >
+<!ELEMENT tour (destination, leader+, price, date)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST tour type (domestic | international) "domestic">
+<!ELEMENT destination (country, city)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT leader (#PCDATA)>
+<!ATTLIST leader_id staff_id IDREF #REQUIRED>
+<!ATTLIST tour mode_transport (bus | cruise | air| train) "bus">
+<!ATTLIST tour tour_name ID #REQUIRED>
+<!ELEMENT finance_report (fullYear | fullSeason)+>
+<!ELEMENT fullYear ((trip | ticket_only)*, income)>
+<!ELEMENT fullSeason ((trip | ticket_only)*, income)>
+<!ELEMENT ticket_only (#PCDATA)>
+<!ELEMENT income (#PCDATA)>
+<!ATTLIST fullSeason seasonName ID #IMPLIED >
+<!ELEMENT trip (customer, customer, customer+)>
+<!ATTLIST trip trip_name IDREF "tour_name">
+<!ELEMENT customer (name, age)>
+<!ATTLIST customer gender (Female | Male) #IMPLIED> 
+<!ENTITY ts "The total number of sold tour packages from our office has shown" >
+<!ENTITY gr "To whom it may concern" >
+<!ENTITY so "Yours sincerely: Cork branch" >

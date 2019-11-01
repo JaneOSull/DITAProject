@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agency_report SYSTEM "Part1.dtd">
+<agency_report> 
+     <name>&gr;</name>
+    <date day="" month="" year="2019"></date>
+    <city></city>
+    <address></address>
+    <body>
+        <employee staff_id="E1">
+            <name></name>
+            <age></age>
+            <salary currency="Euro"></salary>
+        </employee>
+        <employee staff_id="E2">
+            <name></name>
+            <age></age>
+            <salary currency="Euro"></salary>
+        </employee>
+        <employee staff_id="E3">
+            <name></name>
+            <age></age>
+            <salary currency="Euro"></salary>
+        </employee>
+        <employee staff_id="E4">
+            <name></name>
+            <age></age>
+            <salary></salary>
+        </employee>
+        <tour tour_name="Kerry">
+            <destination>
+                <country></country>
+                <city></city>
+            </destination>
+            <leader></leader>
+            <price></price>
+            <date day="" month="" year="2019"></date>
+        </tour>
+        <tour tour_name="Cork">
+            <destination>
+                <country></country>
+                <city></city>
+            </destination>
+            <leader></leader>
+            <price></price>
+            <date day="" month="" year="2019"></date>
+        </tour>
+        <tour tour_name="London">
+            <destination>
+                <country></country>
+                <city></city>
+            </destination>
+            <leader></leader>
+            <price></price>
+            <date day="" month="" year="2019"></date>
+        </tour>
+        <tour tour_name="Glendalough">
+            <destination>
+                <country></country>
+                <city></city>
+            </destination>
+            <leader></leader>
+            <leader></leader>
+            <price></price>
+            <date day="" month="" year="2019"></date>
+        </tour>
+        <tour tour_name="Galway">
+            <destination>
+                <country></country>
+                <city></city>
+            </destination>
+            <leader></leader>
+            <leader></leader>
+            <price></price>
+            <date day="" month="" year="2019"></date>
+        </tour>
+        <finance_report>
+            <fullYear>
+                <ticket_only></ticket_only>
+                <trip trip_name="Kerry">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <income></income>
+            </fullYear>
+            <fullYear>
+                <trip trip_name="Cork">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <trip trip_name="London">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <income></income>
+            </fullYear>
+            <fullSeason seasonName="Spring">
+                <trip trip_name="Galway">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <trip trip_name="Kerry">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <trip trip_name="Kerry">
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                    <customer>
+                        <name></name>
+                        <age></age>
+                    </customer>
+                </trip>
+                <income></income>
+            </fullSeason>
+        </finance_report>
+    </body>
+    <website></website>
+</agency_report>

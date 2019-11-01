@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="newconcept">
+    <title>Self driving cars</title>
+    <shortdesc>Self driving cars, also known as a driverless car, is a vehicle that is capable of sensing the environment and moving safely with little or no human involvement</shortdesc>
+    <conbody>
+        <conbodydiv>
+        <section>
+            <title>Technical Challenges</title>
+            <p>There are many systems that help the self driving car control the car 
+            There are systems that currently need improvement such as car navigation systems and location systems</p>
+        </section>
+        <section>
+            <title>Nature of digital technology</title>
+            <p>Autonomous vehicles as digital technology have certain characteristics that distinguish them from other types of technologies and vehicles</p>
+        </section>
+            
+            <section>
+                <title>Different Parts</title>
+                <p>Self driving cars have a number of different parts</p>
+                <sl>
+                    <sli>radar</sli>
+                    <sli>gps</sli>
+                    <sli>sonar</sli>
+                </sl>
+            </section>
+        </conbodydiv>
+    </conbody>
+</concept>
